@@ -1,0 +1,38 @@
+/* h2{
+  color: aqua;
+  text-align: center;
+}
+.small-input{
+  margin-left: 120px;
+  width: 500px;
+  height: 50px;
+}
+.box{
+  text-align: center;
+} */
+.botimg{
+  width: 50px;
+  padding-left: 15px;
+}
+.sign{
+  margin-top: 70px;
+  font-weight: 600;
+  font-family:serif;
+  line-height: 75px;
+  margin-left: 55px;
+}
+#sign1{
+  line-height: 75px;
+}
+.col2{
+  margin-left: 55px;
+}
+#col2img{
+  margin-left: 330px;
+  margin-top : -130px;
+  height: 516px;
+  width: 313px;
+}
+.col2text{
+  margin-top: 50px;
+}
